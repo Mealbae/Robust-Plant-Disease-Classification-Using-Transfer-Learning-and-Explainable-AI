@@ -18,8 +18,8 @@ Generates farmer-friendly textual explanations.
 
 📊 Dataset
 
-Source: [New Plant Diseases Dataset (Augmented) on Kaggle
-]([url](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset))
+Source: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 Size: 87,867 images across 38 classes.
 
 Split:
